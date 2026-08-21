@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/richards7/leetcode---problem/tree/master/0053-maximum-subarray) |
 | [0164-maximum-gap](https://github.com/richards7/leetcode---problem/tree/master/0164-maximum-gap) |
+| [0704-binary-search](https://github.com/richards7/leetcode---problem/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/richards7/leetcode---problem/tree/master/0164-maximum-gap) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/richards7/leetcode---problem/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
