@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/richards7/leetcode---problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/richards7/leetcode---problem/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/richards7/leetcode---problem/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/richards7/leetcode---problem/tree/master/0164-maximum-gap) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/richards7/leetcode---problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/richards7/leetcode---problem/tree/master/0053-maximum-subarray) |
 | [0324-wiggle-sort-ii](https://github.com/richards7/leetcode---problem/tree/master/0324-wiggle-sort-ii) |
 ## Dynamic Programming
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/richards7/leetcode---problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/richards7/leetcode---problem/tree/master/0704-binary-search) |
 ## Greedy
 |  |
