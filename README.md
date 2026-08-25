@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/richards7/leetcode---problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/richards7/leetcode---problem/tree/master/0324-wiggle-sort-ii) |
 | [0704-binary-search](https://github.com/richards7/leetcode---problem/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/richards7/leetcode---problem/tree/master/0875-koko-eating-bananas) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/richards7/leetcode---problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/richards7/leetcode---problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/richards7/leetcode---problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/richards7/leetcode---problem/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/richards7/leetcode---problem/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
