@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/richards7/leetcode---problem/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/richards7/leetcode---problem/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/richards7/leetcode---problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Quicksort
 |  |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/richards7/leetcode---problem/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/richards7/leetcode---problem/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/richards7/leetcode---problem/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
