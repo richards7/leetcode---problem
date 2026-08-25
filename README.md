@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/richards7/leetcode---problem/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/richards7/leetcode---problem/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
