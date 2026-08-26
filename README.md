@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/richards7/leetcode---problem/tree/master/0324-wiggle-sort-ii) |
 | [0704-binary-search](https://github.com/richards7/leetcode---problem/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/richards7/leetcode---problem/tree/master/0875-koko-eating-bananas) |
+| [1408-string-matching-in-an-array](https://github.com/richards7/leetcode---problem/tree/master/1408-string-matching-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/richards7/leetcode---problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/richards7/leetcode---problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/richards7/leetcode---problem/tree/master/0151-reverse-words-in-a-string) |
+| [1408-string-matching-in-an-array](https://github.com/richards7/leetcode---problem/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/richards7/leetcode---problem/tree/master/1668-maximum-repeating-substring) |
 ## Number Theory
 |  |
@@ -120,5 +122,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1408-string-matching-in-an-array](https://github.com/richards7/leetcode---problem/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/richards7/leetcode---problem/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
