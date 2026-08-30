@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/richards7/leetcode---problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/richards7/leetcode---problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/richards7/leetcode---problem/tree/master/0324-wiggle-sort-ii) |
+| [0503-next-greater-element-ii](https://github.com/richards7/leetcode---problem/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/richards7/leetcode---problem/tree/master/0704-binary-search) |
 | [0806-number-of-lines-to-write-string](https://github.com/richards7/leetcode---problem/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/richards7/leetcode---problem/tree/master/0875-koko-eating-bananas) |
@@ -200,4 +201,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/richards7/leetcode---problem/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/richards7/leetcode---problem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0503-next-greater-element-ii](https://github.com/richards7/leetcode---problem/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/richards7/leetcode---problem/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
