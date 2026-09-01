@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/richards7/leetcode---problem/tree/master/0037-sudoku-solver) |
+| [0113-path-sum-ii](https://github.com/richards7/leetcode---problem/tree/master/0113-path-sum-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -206,4 +207,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/richards7/leetcode---problem/tree/master/0503-next-greater-element-ii) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/richards7/leetcode---problem/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/richards7/leetcode---problem/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/richards7/leetcode---problem/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
