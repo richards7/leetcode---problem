@@ -218,10 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/richards7/leetcode---problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/richards7/leetcode---problem/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/richards7/leetcode---problem/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/richards7/leetcode---problem/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/richards7/leetcode---problem/tree/master/0199-binary-tree-right-side-view) |
 | [0695-max-area-of-island](https://github.com/richards7/leetcode---problem/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/richards7/leetcode---problem/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/richards7/leetcode---problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/richards7/leetcode---problem/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/richards7/leetcode---problem/tree/master/0199-binary-tree-right-side-view) |
 ## Design
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/richards7/leetcode---problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/richards7/leetcode---problem/tree/master/0199-binary-tree-right-side-view) |
 | [0695-max-area-of-island](https://github.com/richards7/leetcode---problem/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/richards7/leetcode---problem/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
