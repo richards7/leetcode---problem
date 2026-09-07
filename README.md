@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/richards7/leetcode---problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/richards7/leetcode---problem/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/richards7/leetcode---problem/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/richards7/leetcode---problem/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/richards7/leetcode---problem/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -255,11 +256,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/richards7/leetcode---problem/tree/master/0199-binary-tree-right-side-view) |
 | [0695-max-area-of-island](https://github.com/richards7/leetcode---problem/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/richards7/leetcode---problem/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/richards7/leetcode---problem/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/richards7/leetcode---problem/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/richards7/leetcode---problem/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/richards7/leetcode---problem/tree/master/0802-find-eventual-safe-states) |
 | [1584-min-cost-to-connect-all-points](https://github.com/richards7/leetcode---problem/tree/master/1584-min-cost-to-connect-all-points) |
 ## Heap (Priority Queue)
 |  |
@@ -304,4 +307,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/richards7/leetcode---problem/tree/master/1584-min-cost-to-connect-all-points) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/richards7/leetcode---problem/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/richards7/leetcode---problem/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/richards7/leetcode---problem/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
