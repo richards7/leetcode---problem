@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/richards7/leetcode---problem/tree/master/0324-wiggle-sort-ii) |
 | [0503-next-greater-element-ii](https://github.com/richards7/leetcode---problem/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/richards7/leetcode---problem/tree/master/0622-design-circular-queue) |
+| [0643-maximum-average-subarray-i](https://github.com/richards7/leetcode---problem/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/richards7/leetcode---problem/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/richards7/leetcode---problem/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/richards7/leetcode---problem/tree/master/0724-find-pivot-index) |
@@ -350,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/richards7/leetcode---problem/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/richards7/leetcode---problem/tree/master/0724-find-pivot-index) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/richards7/leetcode---problem/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
