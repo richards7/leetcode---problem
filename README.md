@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/richards7/leetcode---problem/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/richards7/leetcode---problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/richards7/leetcode---problem/tree/master/0240-search-a-2d-matrix-ii) |
+| [0303-range-sum-query-immutable](https://github.com/richards7/leetcode---problem/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/richards7/leetcode---problem/tree/master/0324-wiggle-sort-ii) |
 | [0503-next-greater-element-ii](https://github.com/richards7/leetcode---problem/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/richards7/leetcode---problem/tree/master/0622-design-circular-queue) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/richards7/leetcode---problem/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/richards7/leetcode---problem/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/richards7/leetcode---problem/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/richards7/leetcode---problem/tree/master/0622-design-circular-queue) |
 ## Breadth-First Search
 |  |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/richards7/leetcode---problem/tree/master/0622-design-circular-queue) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/richards7/leetcode---problem/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
