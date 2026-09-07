@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/richards7/leetcode---problem/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/richards7/leetcode---problem/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/richards7/leetcode---problem/tree/master/0146-lru-cache) |
 ## Backtracking
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/richards7/leetcode---problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/richards7/leetcode---problem/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/richards7/leetcode---problem/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/richards7/leetcode---problem/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/richards7/leetcode---problem/tree/master/0328-odd-even-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/richards7/leetcode---problem/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/richards7/leetcode---problem/tree/master/0155-min-stack) |
 ## Breadth-First Search
 |  |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/richards7/leetcode---problem/tree/master/0787-cheapest-flights-within-k-stops) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/richards7/leetcode---problem/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
