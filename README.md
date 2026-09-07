@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/richards7/leetcode---problem/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/richards7/leetcode---problem/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/richards7/leetcode---problem/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/richards7/leetcode---problem/tree/master/0724-find-pivot-index) |
 | [0806-number-of-lines-to-write-string](https://github.com/richards7/leetcode---problem/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/richards7/leetcode---problem/tree/master/0875-koko-eating-bananas) |
 | [1408-string-matching-in-an-array](https://github.com/richards7/leetcode---problem/tree/master/1408-string-matching-in-an-array) |
@@ -348,4 +349,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/richards7/leetcode---problem/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/richards7/leetcode---problem/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
