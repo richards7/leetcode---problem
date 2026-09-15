@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/richards7/leetcode---problem/tree/master/0724-find-pivot-index) |
 | [0806-number-of-lines-to-write-string](https://github.com/richards7/leetcode---problem/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/richards7/leetcode---problem/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/richards7/leetcode---problem/tree/master/0904-fruit-into-baskets) |
 | [1408-string-matching-in-an-array](https://github.com/richards7/leetcode---problem/tree/master/1408-string-matching-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/richards7/leetcode---problem/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/richards7/leetcode---problem/tree/master/1631-path-with-minimum-effort) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/richards7/leetcode---problem/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/richards7/leetcode---problem/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/richards7/leetcode---problem/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/richards7/leetcode---problem/tree/master/0904-fruit-into-baskets) |
 ## Backtracking
 |  |
 | ------- |
@@ -368,4 +370,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/richards7/leetcode---problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/richards7/leetcode---problem/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/richards7/leetcode---problem/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
