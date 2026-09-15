@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/richards7/leetcode---problem/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/richards7/leetcode---problem/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/richards7/leetcode---problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/richards7/leetcode---problem/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/richards7/leetcode---problem/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/richards7/leetcode---problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/richards7/leetcode---problem/tree/master/0152-maximum-product-subarray) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/richards7/leetcode---problem/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/richards7/leetcode---problem/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/richards7/leetcode---problem/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/richards7/leetcode---problem/tree/master/0164-maximum-gap) |
 | [0324-wiggle-sort-ii](https://github.com/richards7/leetcode---problem/tree/master/0324-wiggle-sort-ii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/richards7/leetcode---problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/richards7/leetcode---problem/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/richards7/leetcode---problem/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/richards7/leetcode---problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/richards7/leetcode---problem/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/richards7/leetcode---problem/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/richards7/leetcode---problem/tree/master/0143-reorder-list) |
