@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/richards7/leetcode---problem/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/richards7/leetcode---problem/tree/master/0324-wiggle-sort-ii) |
 | [0503-next-greater-element-ii](https://github.com/richards7/leetcode---problem/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/richards7/leetcode---problem/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/richards7/leetcode---problem/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/richards7/leetcode---problem/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/richards7/leetcode---problem/tree/master/0695-max-area-of-island) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/richards7/leetcode---problem/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/richards7/leetcode---problem/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/richards7/leetcode---problem/tree/master/0146-lru-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/richards7/leetcode---problem/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/richards7/leetcode---problem/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/richards7/leetcode---problem/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/richards7/leetcode---problem/tree/master/0724-find-pivot-index) |
 ## Sliding Window
 |  |
