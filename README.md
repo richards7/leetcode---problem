@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/richards7/leetcode---problem/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/richards7/leetcode---problem/tree/master/0147-insertion-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/richards7/leetcode---problem/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/richards7/leetcode---problem/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/richards7/leetcode---problem/tree/master/0622-design-circular-queue) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/richards7/leetcode---problem/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/richards7/leetcode---problem/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/richards7/leetcode---problem/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/richards7/leetcode---problem/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/richards7/leetcode---problem/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/richards7/leetcode---problem/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/richards7/leetcode---problem/tree/master/0743-network-delay-time) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/richards7/leetcode---problem/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/richards7/leetcode---problem/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Union-Find
 |  |
 | ------- |
