@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/richards7/leetcode---problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/richards7/leetcode---problem/tree/master/0053-maximum-subarray) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/richards7/leetcode---problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/richards7/leetcode---problem/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/richards7/leetcode---problem/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/richards7/leetcode---problem/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/richards7/leetcode---problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/richards7/leetcode---problem/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/richards7/leetcode---problem/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/richards7/leetcode---problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/richards7/leetcode---problem/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/richards7/leetcode---problem/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/richards7/leetcode---problem/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/richards7/leetcode---problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/richards7/leetcode---problem/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/richards7/leetcode---problem/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/richards7/leetcode---problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/richards7/leetcode---problem/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/richards7/leetcode---problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/richards7/leetcode---problem/tree/master/0695-max-area-of-island) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/richards7/leetcode---problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/richards7/leetcode---problem/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/richards7/leetcode---problem/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/richards7/leetcode---problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/richards7/leetcode---problem/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/richards7/leetcode---problem/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/richards7/leetcode---problem/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -422,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/richards7/leetcode---problem/tree/master/0173-binary-search-tree-iterator) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/richards7/leetcode---problem/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
