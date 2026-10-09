@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/richards7/leetcode---problem/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/richards7/leetcode---problem/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/richards7/leetcode---problem/tree/master/0904-fruit-into-baskets) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/richards7/leetcode---problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/richards7/leetcode---problem/tree/master/1408-string-matching-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/richards7/leetcode---problem/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/richards7/leetcode---problem/tree/master/1631-path-with-minimum-effort) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/richards7/leetcode---problem/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/richards7/leetcode---problem/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/richards7/leetcode---problem/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/richards7/leetcode---problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/richards7/leetcode---problem/tree/master/1631-path-with-minimum-effort) |
 ## Greedy
 |  |
