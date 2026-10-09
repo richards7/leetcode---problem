@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/richards7/leetcode---problem/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/richards7/leetcode---problem/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/richards7/leetcode---problem/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/richards7/leetcode---problem/tree/master/0739-daily-temperatures) |
 | [0806-number-of-lines-to-write-string](https://github.com/richards7/leetcode---problem/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/richards7/leetcode---problem/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/richards7/leetcode---problem/tree/master/0904-fruit-into-baskets) |
@@ -291,11 +292,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/richards7/leetcode---problem/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/richards7/leetcode---problem/tree/master/0173-binary-search-tree-iterator) |
 | [0503-next-greater-element-ii](https://github.com/richards7/leetcode---problem/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/richards7/leetcode---problem/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/richards7/leetcode---problem/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/richards7/leetcode---problem/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/richards7/leetcode---problem/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
