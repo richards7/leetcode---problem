@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/richards7/leetcode---problem/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/richards7/leetcode---problem/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/richards7/leetcode---problem/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/richards7/leetcode---problem/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/richards7/leetcode---problem/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/richards7/leetcode---problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/richards7/leetcode---problem/tree/master/0503-next-greater-element-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/richards7/leetcode---problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/richards7/leetcode---problem/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/richards7/leetcode---problem/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/richards7/leetcode---problem/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/richards7/leetcode---problem/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/richards7/leetcode---problem/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/richards7/leetcode---problem/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/richards7/leetcode---problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/richards7/leetcode---problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/richards7/leetcode---problem/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/richards7/leetcode---problem/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/richards7/leetcode---problem/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/richards7/leetcode---problem/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/richards7/leetcode---problem/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -448,9 +451,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/richards7/leetcode---problem/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/richards7/leetcode---problem/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/richards7/leetcode---problem/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/richards7/leetcode---problem/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
