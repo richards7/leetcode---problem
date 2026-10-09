@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/richards7/leetcode---problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/richards7/leetcode---problem/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/richards7/leetcode---problem/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/richards7/leetcode---problem/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/richards7/leetcode---problem/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/richards7/leetcode---problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/richards7/leetcode---problem/tree/master/0152-maximum-product-subarray) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/richards7/leetcode---problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/richards7/leetcode---problem/tree/master/0014-longest-common-prefix) |
+| [0072-edit-distance](https://github.com/richards7/leetcode---problem/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/richards7/leetcode---problem/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/richards7/leetcode---problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/richards7/leetcode---problem/tree/master/0151-reverse-words-in-a-string) |
