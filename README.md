@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/richards7/leetcode---problem/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/richards7/leetcode---problem/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/richards7/leetcode---problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/richards7/leetcode---problem/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/richards7/leetcode---problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/richards7/leetcode---problem/tree/master/0088-merge-sorted-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/richards7/leetcode---problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/richards7/leetcode---problem/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/richards7/leetcode---problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/richards7/leetcode---problem/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/richards7/leetcode---problem/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/richards7/leetcode---problem/tree/master/0125-valid-palindrome) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/richards7/leetcode---problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/richards7/leetcode---problem/tree/master/0459-repeated-substring-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/richards7/leetcode---problem/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/richards7/leetcode---problem/tree/master/1668-maximum-repeating-substring) |
@@ -236,10 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/richards7/leetcode---problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/richards7/leetcode---problem/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/richards7/leetcode---problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/richards7/leetcode---problem/tree/master/0459-repeated-substring-pattern) |
 ## Memoization
 |  |
@@ -505,4 +510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/richards7/leetcode---problem/tree/master/0295-find-median-from-data-stream) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/richards7/leetcode---problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
