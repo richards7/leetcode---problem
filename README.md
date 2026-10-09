@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/richards7/leetcode---problem/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/richards7/leetcode---problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/richards7/leetcode---problem/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/richards7/leetcode---problem/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/richards7/leetcode---problem/tree/master/0113-path-sum-ii) |
 ## Algorithm X
 |  |
