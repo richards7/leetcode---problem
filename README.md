@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/richards7/leetcode---problem/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/richards7/leetcode---problem/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/richards7/leetcode---problem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/richards7/leetcode---problem/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/richards7/leetcode---problem/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/richards7/leetcode---problem/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/richards7/leetcode---problem/tree/master/0258-add-digits) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/richards7/leetcode---problem/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/richards7/leetcode---problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/richards7/leetcode---problem/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/richards7/leetcode---problem/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/richards7/leetcode---problem/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/richards7/leetcode---problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/richards7/leetcode---problem/tree/master/0459-repeated-substring-pattern) |
