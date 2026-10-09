@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/richards7/leetcode---problem/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/richards7/leetcode---problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/richards7/leetcode---problem/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/richards7/leetcode---problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/richards7/leetcode---problem/tree/master/0155-min-stack) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/richards7/leetcode---problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/richards7/leetcode---problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/richards7/leetcode---problem/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/richards7/leetcode---problem/tree/master/0113-path-sum-ii) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/richards7/leetcode---problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/richards7/leetcode---problem/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/richards7/leetcode---problem/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/richards7/leetcode---problem/tree/master/0199-binary-tree-right-side-view) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/richards7/leetcode---problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/richards7/leetcode---problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/richards7/leetcode---problem/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/richards7/leetcode---problem/tree/master/0113-path-sum-ii) |
