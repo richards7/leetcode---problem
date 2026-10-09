@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/richards7/leetcode---problem/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/richards7/leetcode---problem/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/richards7/leetcode---problem/tree/master/0164-maximum-gap) |
+| [0295-find-median-from-data-stream](https://github.com/richards7/leetcode---problem/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/richards7/leetcode---problem/tree/master/0324-wiggle-sort-ii) |
 | [0645-set-mismatch](https://github.com/richards7/leetcode---problem/tree/master/0645-set-mismatch) |
 ## Bucket Sort
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/richards7/leetcode---problem/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/richards7/leetcode---problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/richards7/leetcode---problem/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/richards7/leetcode---problem/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/richards7/leetcode---problem/tree/master/0344-reverse-string) |
 ## Quicksort
 |  |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/richards7/leetcode---problem/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/richards7/leetcode---problem/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/richards7/leetcode---problem/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/richards7/leetcode---problem/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/richards7/leetcode---problem/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/richards7/leetcode---problem/tree/master/0622-design-circular-queue) |
 ## Breadth-First Search
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/richards7/leetcode---problem/tree/master/0295-find-median-from-data-stream) |
 | [0743-network-delay-time](https://github.com/richards7/leetcode---problem/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/richards7/leetcode---problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/richards7/leetcode---problem/tree/master/1631-path-with-minimum-effort) |
@@ -493,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/richards7/leetcode---problem/tree/master/0207-course-schedule) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/richards7/leetcode---problem/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
