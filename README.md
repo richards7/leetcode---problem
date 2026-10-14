@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/richards7/leetcode---problem/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/richards7/leetcode---problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/richards7/leetcode---problem/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/richards7/leetcode---problem/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/richards7/leetcode---problem/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/richards7/leetcode---problem/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/richards7/leetcode---problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/richards7/leetcode---problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/richards7/leetcode---problem/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/richards7/leetcode---problem/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/richards7/leetcode---problem/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/richards7/leetcode---problem/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/richards7/leetcode---problem/tree/master/0091-decode-ways) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/richards7/leetcode---problem/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/richards7/leetcode---problem/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/richards7/leetcode---problem/tree/master/0324-wiggle-sort-ii) |
 ## Quickselect
 |  |
